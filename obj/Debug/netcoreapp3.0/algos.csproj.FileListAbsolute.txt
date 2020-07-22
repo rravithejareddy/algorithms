@@ -1,0 +1,11 @@
+C:\Users\ramireddy\Documents\algos\bin\Debug\netcoreapp3.0\algos.exe
+C:\Users\ramireddy\Documents\algos\bin\Debug\netcoreapp3.0\algos.deps.json
+C:\Users\ramireddy\Documents\algos\bin\Debug\netcoreapp3.0\algos.runtimeconfig.json
+C:\Users\ramireddy\Documents\algos\bin\Debug\netcoreapp3.0\algos.runtimeconfig.dev.json
+C:\Users\ramireddy\Documents\algos\bin\Debug\netcoreapp3.0\algos.dll
+C:\Users\ramireddy\Documents\algos\bin\Debug\netcoreapp3.0\algos.pdb
+C:\Users\ramireddy\Documents\algos\obj\Debug\netcoreapp3.0\algos.csprojAssemblyReference.cache
+C:\Users\ramireddy\Documents\algos\obj\Debug\netcoreapp3.0\algos.AssemblyInfoInputs.cache
+C:\Users\ramireddy\Documents\algos\obj\Debug\netcoreapp3.0\algos.AssemblyInfo.cs
+C:\Users\ramireddy\Documents\algos\obj\Debug\netcoreapp3.0\algos.dll
+C:\Users\ramireddy\Documents\algos\obj\Debug\netcoreapp3.0\algos.pdb
