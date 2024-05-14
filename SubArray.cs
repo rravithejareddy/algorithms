@@ -22,7 +22,7 @@ public class SubArray
 
         while (right < arr.Length && sum > s)
         {
-            sum += arr[right];
+            sum += arr[right]; 
             while (left < right && sum > s)
             {
                 sum = +arr[left++];

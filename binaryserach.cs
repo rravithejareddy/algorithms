@@ -19,7 +19,7 @@ class BinarySerach
         return -1;
     }
 
-    public static void Main(string[] args)
+    public static void MainC(string[] args)
     {
         
         int[] arr = { 2, 3, 4, 10, 40 }; 

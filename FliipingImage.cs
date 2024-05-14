@@ -1,4 +1,4 @@
-
+using System;
 class Flipping
 {
 
@@ -25,7 +25,7 @@ class Flipping
             }
 
         }
-
+        Console.Write("Result \t"+A);
         return A;
     }
     public static void MainC(string[] args)

@@ -41,7 +41,7 @@ namespace algos
                 foreach (var i in adj[s])
                 {
                     if (!visited[i])
-                    {
+                    {  
                         visited[i] = true;
                         q.Enqueue(i);
                     }

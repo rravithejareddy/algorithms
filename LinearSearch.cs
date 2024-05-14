@@ -1,7 +1,6 @@
-﻿using System;
+using System;
 
-namespace algos
-{
+
 
     class LinearSearch
     {
@@ -16,7 +15,7 @@ namespace algos
 
             int res = linearSearch.linearSearch(arr, f);
 
-            Console.Write("result", res);
+            Console.Write("result\t"+res);
         }
 
         public int linearSearch(int[] arr, int f)
@@ -25,10 +24,9 @@ namespace algos
             {
                 if (arr[i] == f)
                 {
-                    return i;
+                    return i+1;
                 }              
             }
              return -1;
         }
     }
-}
