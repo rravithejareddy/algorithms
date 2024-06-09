@@ -20,7 +20,7 @@ namespace DynamicAlgo
         {
 
 
-            if (lookup[n] == NIL)
+            if (lookup[n] == NIL) b
             {
                 if (n <= 1)
                     lookup[n] = n;
